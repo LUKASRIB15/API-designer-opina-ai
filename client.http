@@ -1,0 +1,8 @@
+# @name design_description
+
+POST http://localhost:3333/ai/description
+Content-Type: application/json
+
+{
+  "prompt": "Realizando testes. Me diga qual a melhor técnica para desenvolver um design iniciante para instagram"
+}
