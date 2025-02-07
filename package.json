@@ -10,7 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "fastify": "^5.2.1"
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "openai": "^4.83.0",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22.13.1",
